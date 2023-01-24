@@ -1,3 +1,8 @@
+TemDev66/NTPClient 3.1.0 - 2023.01.24
+
+* Added getter method for parivate member _timeOffset -> getTimeOffset()
+
+
 NTPClient 3.1.0 - 2016.05.31
 
 * Added functions for changing the timeOffset and updateInterval later. Thanks @SirUli
